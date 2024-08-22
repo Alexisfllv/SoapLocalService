@@ -22,3 +22,5 @@ SOAP UI importará la definición del servicio y generará automáticamente las 
 - **Nombre del WSDL**: El WSDL es generado bajo el nombre `paises.wsdl` según la configuración de Spring Boot.
 
 Utilizando la URL del WSDL en SOAP UI, puedes realizar pruebas y enviar solicitudes a tu servicio SOAP para asegurarte de que funciona correctamente.
+
+`http://localhost:8080/soapws/ws/paises.wsdl`
